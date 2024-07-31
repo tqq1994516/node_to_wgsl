@@ -1,0 +1,2 @@
+--index https://pypi.tuna.tsinghua.edu.cn/simple some-package
+fake-bpy-module-4.1
