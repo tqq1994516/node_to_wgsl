@@ -1,6 +1,7 @@
 {
   "recommendations": [
     "wgsl-analyzer.wgsl-analyzer",
-    "ms-python.python"
+    "ms-python.python",
+    "charliermarsh.ruff"
   ]
 }
